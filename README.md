@@ -21,13 +21,11 @@ It focuses on:
 
 ```
 express-project-01-hello-world-api
-│
-├─ node_modules
-├─ .gitignore
-├─ index.js
-├─ package.json
-├─ package-lock.json
-└─ README.md
+├── .gitignore
+├── index.js
+├── package-lock.json
+├── package.json
+└── README.md
 ```
 
 ## Installation
@@ -48,7 +46,7 @@ npm install
 ## Run the Project
 
 ```bash
-node index.js
+npm start
 ```
 
 Server will run at

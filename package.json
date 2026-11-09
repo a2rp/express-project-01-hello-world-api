@@ -1,17 +1,26 @@
 {
   "name": "express-project-01-hello-world-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "A minimal Express.js API that returns a JSON greeting from the root route.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/a2rp/express-project-01-hello-world-api.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "express",
+    "expressjs",
+    "nodejs",
+    "rest-api",
+    "hello-world-api",
+    "json-api",
+    "beginner-project"
+  ],
+  "author": "Ashish Ranjan",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
